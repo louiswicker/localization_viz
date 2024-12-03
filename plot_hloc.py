@@ -6,7 +6,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-x_L = 100.
+x_L = 10.
 z_L = 10.   # think of these lengths as domain size in KM
 
 x_loc = 10.0
